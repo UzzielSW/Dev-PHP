@@ -1,0 +1,1 @@
+3. Calcular el valor del monto a pagar por un préstamo hipotecario. Se debe introducir el monto del préstamo y decir si es empleado público o privado. Si es empleado público tiene un interés del 9% del valor del préstamo. Si es empleado privado tiene un 11% de interés. 

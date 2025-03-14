@@ -1,0 +1,10 @@
+Forma normal de Chomsky
+Forma normal de Greibach
+Gramática limpia
+Producciones unitarias
+Producción nula
+Símbolo anulable
+Símbolos accesibles
+Símbolos inaccesibles
+Símbolos inútiles
+Símbolos no derivables

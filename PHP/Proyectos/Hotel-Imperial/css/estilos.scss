@@ -1,0 +1,46 @@
+.info-text{
+	font-size: 18px;
+}
+
+.footer
+{
+	background-color: rgb(17, 17, 17);
+	padding: 15px 0;
+}
+
+.presp{
+	font-size: 1em;
+	color: red;
+}
+
+#preloader {
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 999;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+  background: #fff url("../img/preloader.svg") no-repeat center center;
+}
+
+.mb-4, .my-4 {
+    margin-bottom: 0;
+}
+
+.textmin
+{
+  font-size: 15px;
+  color: #AAA9AF;
+  font-weight: normal;
+  text-align: center;
+  display: block;
+}
+
+@media screen and (max-width: 826px) {
+ .textmin
+  {
+    display: inline-block;
+    padding: 0 10px;
+  }
+}

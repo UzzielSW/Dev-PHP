@@ -1,0 +1,76 @@
+//estilos para la seccion de compra
+.caja{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+
+  label{
+    display: inline-block;
+    font-weight: 500;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    margin-right: 15px;
+    margin-bottom: 0px;
+  }
+
+  input:hover{
+    background-color: #FFF;
+    color: #D10024;
+    border-color: #D10024;
+  }
+
+  input{
+    padding: 0 2em;
+    border: 2px solid transparent;
+    height: 40px;
+    background-color: #ef233c;
+    color: #FFF;
+    text-transform: uppercase;
+    font-weight: 700;
+    border-radius: 30px;
+    -webkit-transition: 0.2s all;
+    transition: 0.2s all;
+  }
+
+  .opcnumeros{
+    width: 20%;
+    font-size: 1.2em;
+  }
+
+  .tribuna{
+    font-size: 1.2em;
+  }
+}
+
+.precio{
+  color: #D10024;
+}
+
+.form{
+  background-color: rgb(226, 223, 223);
+  padding: 10px;
+  border-radius: 10px;
+  width: 100%;
+}
+
+// ajuste de los links
+a{
+  text-decoration: none;
+}
+
+// arreglo del titulo
+.titulo {
+  float: left;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+//SECCION DE PAGAR
+
+// ajuste de dimension de los input
+.form-group
+{
+  padding-bottom: .5em;
+  width: 80%;
+}

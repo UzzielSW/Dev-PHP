@@ -1,0 +1,76 @@
+.caja {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.caja label {
+  display: inline-block;
+  font-weight: 500;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  margin-right: 15px;
+  margin-bottom: 0px;
+}
+.caja input:hover {
+  background-color: #FFF;
+  color: #D10024;
+  border-color: #D10024;
+}
+.caja input {
+  padding: 0 2em;
+  border: 2px solid transparent;
+  height: 40px;
+  background-color: #ef233c;
+  color: #FFF;
+  text-transform: uppercase;
+  font-weight: 700;
+  border-radius: 30px;
+  -webkit-transition: 0.2s all;
+  transition: 0.2s all;
+}
+.caja .opcnumeros {
+  width: 20%;
+  font-size: 1.2em;
+}
+.caja .tribuna {
+  font-size: 1.2em;
+}
+
+.precio {
+  color: #D10024;
+}
+
+.form {
+  background-color: #e2dfdf;
+  padding: 10px;
+  border-radius: 10px;
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+.titulo {
+  float: left;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.form-group {
+  padding-bottom: 0.5em;
+  width: 80%;
+}
